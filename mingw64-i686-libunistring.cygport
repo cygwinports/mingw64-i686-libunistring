@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-libunistring"
-VERSION=0.9.3
+VERSION=0.9.6
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="Unicode string library for Win32 toolchain"
